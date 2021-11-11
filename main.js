@@ -1,3 +1,5 @@
+
+
 var myName1 = "bilol";
 
 var myName = prompt("Ismizi kiriting!");
